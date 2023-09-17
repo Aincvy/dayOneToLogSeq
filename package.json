@@ -1,0 +1,12 @@
+{
+    "name": "day-one-to-logseq",
+    "version": "1.0.0",
+    "description": "A Node.js application to convert JSON data to Markdown files",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "node src/index.js"
+    },
+    "dependencies": {
+        "moment": "^2.29.1"
+    }
+}
